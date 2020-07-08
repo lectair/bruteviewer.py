@@ -31,7 +31,7 @@ headers = {
     "Connection":"keep-alive",
     "Referer":"https://sifresiz.instahile.co/views",
     "Content-Length":"34",
-    "Cookie":"__cfduid=da3b912f0adc7e45eebba4568f47299991594233976; _ga=GA1.2.8790189.1594221068; _gat_gtag_UA_129054916_2=1; _gid=GA1.2.1485195277.1594221068"
+    "Cookie":"INSERT_COOKIES_HERE"
 }
 
 params = {
